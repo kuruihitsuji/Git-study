@@ -12,6 +12,6 @@ namespace Git_study
 
         int price;
 
-        string taste;
+        string name;
 	}
 }
